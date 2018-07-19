@@ -28468,5 +28468,6 @@ void Game::ComposeFrame()
 		sum += n[i];
 	}
 	int result = sum / size;
+	//Test
 	
 }
